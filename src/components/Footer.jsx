@@ -10,15 +10,15 @@ const Footer = () => {
             <div className="absolute bottom-0 right-1/4 w-64 h-24 bg-emerald-500/5 rounded-full blur-[80px] pointer-events-none" />
 
             {/* Top shimmer line */}
-            <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-sky-500/40 to-transparent" />
+            <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-violet-500/40 to-transparent" />
 
             <div className="max-w-4xl mx-auto px-6 py-8 flex flex-col items-center gap-6">
 
                 {/* Logo */}
                 <div className="relative group cursor-default select-none flex items-center gap-1">
                     <div className="absolute -inset-2 bg-green-500/10 rounded-full blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
-                    <div className="relative font-extrabold text-lg tracking-tight text-sky-400 drop-shadow-[0_0_8px_rgba(74,222,128,0.4)] group-hover:drop-shadow-[0_0_16px_rgba(74,222,128,0.7)] transition-all duration-300 group-hover:scale-105">
-                        &lt; <span className="text-white">मन्त्र</span>म् /&gt;
+                    <div className="relative font-extrabold text-lg tracking-tight text-violet-400 drop-shadow-[0_0_8px_rgba(74,222,128,0.4)] group-hover:drop-shadow-[0_0_16px_rgba(74,222,128,0.7)] transition-all duration-300 group-hover:scale-105">
+                        &lt; <span className="text-white">कार्य</span>म् /&gt;
                     </div>
                 </div>
 
@@ -32,20 +32,20 @@ const Footer = () => {
 
                 {/* Bottom row */}
                 <div className="flex flex-col sm:flex-row items-center justify-between w-full gap-3 text-xs text-gray-600">
-                    <span>© {new Date().getFullYear()} <span className="text-sky-500/70">मन्त्रम्</span>. All rights reserved.</span>
+                    <span>© {new Date().getFullYear()} <span className="text-violet-500/70">कार्यम्</span>. All rights reserved.</span>
 
                     
 
                     <div className="flex items-center gap-1">
                         <span>Made By</span>
-                       <span className="text-sky-500 animate-pulse mx-0">♥</span>
+                       <span className="text-violet-500 animate-pulse mx-0">♥</span>
                         <span>PRIYANSHU-using React & Tailwind</span>
                     </div>
                    <div
                      href="https://twitter.com"
                      target="_blank"
                      rel="noreferrer"
-                    className="flex items-center gap-1.5 text-gray-500 hover:text-sky-400 transition-colors duration-200 group/twitter"
+                    className="flex items-center gap-1.5 text-gray-500 hover:text-blue-400 transition-colors duration-200 group/twitter"
                >
                     <svg className="w-4 h-4 transition-transform duration-300 group-hover/twitter:scale-110 group-hover/twitter:rotate-12"fill="currentColor" viewBox="0 0 24 24" >
                         <path d="M23.954 4.569c-.885.392-1.83.656-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124-4.087-.205-7.713-2.163-10.141-5.144-.423.722-.666 1.561-.666 2.475 0 1.708.87 3.215 2.188 4.099-.807-.026-1.566-.248-2.228-.616v.062c0 2.385 1.693 4.374 3.946 4.827-.413.112-.849.171-1.296.171-.317 0-.626-.03-.927-.086.627 1.956 2.444 3.379 4.6 3.419-1.68 1.318-3.808 2.104-6.115 2.104-.397 0-.788-.023-1.175-.068 2.179 1.397 4.768 2.213 7.557 2.213 9.054 0 14-7.496 14-13.986 0-.21 0-.423-.015-.634.962-.695 1.8-1.562 2.46-2.549z" />

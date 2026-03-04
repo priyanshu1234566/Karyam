@@ -1,4 +1,4 @@
-# 🚀 Mantram MongoDB Web Application
+# 🚀 Karyam – To-Do List Web Application
 
 <p align="center">
   <a href="https://mantram-mongo-db.vercel.app/">
@@ -6,8 +6,8 @@
   </a>
   <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Vite-Fast-purple?style=for-the-badge&logo=vite" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-darkgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/LocalStorage-Data%20Persistence-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
 </p>
 
@@ -20,248 +20,157 @@
 
 ---
 
----
-## 📧 Connect with me for collaboration
-<p align="center"> <a href="https://www.linkedin.com/in/priyanshu-kumar-b7148632b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/priyanshu1234566" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://x.com/PriyanshuK33564" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://www.instagram.com/alone_in_life_823?igsh=cjZhbXIybGxqN2tj" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+## 📖 About The Project
+
+**Karyam** is a modern, responsive To-Do List Web Application built using React and Vite.  
+
+It allows users to:
+- Add tasks
+- Edit tasks
+- Mark tasks as completed
+- Delete tasks
+- Persist tasks using LocalStorage
+
+The project focuses on clean UI, smooth animations, and intuitive task management.
 
 ---
 
----
-# 🖼 Screenshots
+## ✨ Core Features
 
-> 📌 Add your screenshots inside a `/screenshots` folder in your project
-
-## 🏠 Home Page
-![Home Screenshot](./src/icons/1.png)
-
-## ➕ Create Data
-![Create Screenshot](./src/icons/3.png)
-
-## 📋 Data Listing
-![List Screenshot](./src/icons/4.png)
-
-## ✏️ Update Feature
-![Update Screenshot](./src/icons/2.png)
+- ✅ Add New Tasks
+- ✏️ Edit Existing Tasks
+- ❌ Delete Tasks
+- ✔️ Mark Tasks as Completed
+- 🔄 Toggle Show/Hide Completed Tasks
+- 📊 Progress Bar (Completion Tracking)
+- 💾 LocalStorage Data Persistence
+- 🌙 Modern Dark UI Design
+- ⚡ Fast Performance with Vite
 
 ---
 
-# 📌 Project Overview
+## 🛠 Tech Stack
 
-**Mantram MongoDB Web Application** is a full-stack CRUD application built using modern web technologies.  
-
-It demonstrates:
-- REST API integration
-- MongoDB database operations
-- Full frontend-backend communication
-- Production deployment workflow
-
-This project is designed following scalable architecture principles and clean coding standards.
-
----
-
-# 🛠 Tech Stack
-
-## 🎨 Frontend
+### 🎨 Frontend
 - ⚛️ React.js
 - ⚡ Vite
 - 🎨 Tailwind CSS
-- 📡 Axios
-- 🧹 ESLint
+- 🎯 React Icons
+- 🆔 UUID
 
-## 🌐 Backend
-- 🟢 Node.js
-- 🚏 Express.js
-- 🍃 MongoDB
-- 🔐 dotenv
-
-## ☁️ Deployment
-- Frontend: **Vercel**
-- Backend: Render / Railway / VPS
-- Database: MongoDB Atlas
+### 💾 Data Handling
+- Browser LocalStorage API
 
 ---
 
-# ✨ Core Features
+## 🖼 Screenshots
 
-- ✅ Create Data
-- ✅ Read Data
-- ✅ Update Data
-- ✅ Delete Data
-- 🔄 Real-time UI updates
-- ⚡ Fast HMR with Vite
-- 🔐 Secure environment variables
-- 🌍 RESTful API Architecture
+> 📌 Add your screenshots inside a `/screenshots` folder
 
-# 📂 Project Structure
+### 🏠 Home Page
+![Home Screenshot](./src/icons/1.png)
 
-```
-Mantram-MongoDB/
+### ➕ Add Task
+![Add Screenshot](./src/icons/3.png)
+
+### 📋 Task List
+![List Screenshot](./src/icons/4.png)
+
+### ✏️ Edit Task
+![Edit Screenshot](./src/icons/2.png)
+
+---
+
+## 🎬 Demo Video (Optional)
+
+You can embed your demo video like this:
+
+```html
+<p align="center">
+  <video width="600" controls>
+    <source src="./videos/demo.mp4" type="video/mp4">
+  </video>
+</p>
+
+Karyam-Todo-App/
 │
-├── client/              # React Frontend
-│   ├── src/
-│   ├── public/
-│   └── package.json
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── AnimatedBackground.jsx
+│   │   └── LakshyamTitleLogo.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
 │
-├── server/              # Express Backend
-│   ├── index.js
-│   ├── routes/
-│   ├── models/
-│   └── package.json
-│
+├── public/
+├── package.json
 └── README.md
-```
-
----
-
-# ⚙️ Installation Guide
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
----
-
-## 2️⃣ Backend Setup
-
-```bash
-cd server
+⚙️ Installation Guide
+1️⃣ Clone Repository
+git clone https://github.com/your-username/karyam-todo-app.git
+cd karyam-todo-app
+2️⃣ Install Dependencies
 npm install
-```
-
-Create `.env` file inside `server` folder:
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-```
-
-Start backend:
-
-```bash
-npm start
-```
-
----
-
-## 3️⃣ Frontend Setup
-
-```bash
-cd client
-npm install
+3️⃣ Run Development Server
 npm run dev
-```
 
-Frontend runs at:
+App runs at:
 
-```
 http://localhost:5173
-```
+🧠 Example Usage
+➕ Adding a Task
 
----
+Type task name in input field.
 
-# 📊 API Documentation
+Press Enter or click Add.
 
-Base URL (Local):
-```
-http://localhost:5000/api
-```
+Task appears in list.
 
----
+✔️ Mark Task Completed
 
-## 📌 1. Get All Records
+Click checkbox beside task.
 
-```
-GET /api/items
-```
+Progress bar updates automatically.
 
-### Response:
-```json
-[
-  {
-    "_id": "12345",
-    "name": "Sample Data",
-    "createdAt": "2026-03-01"
-  }
-]
-```
+✏️ Edit Task
 
----
+Click edit icon.
 
-## 📌 2. Create Record
+Modify task.
 
-```
-POST /api/items
-```
+Re-add updated task.
 
-### Body:
-```json
-{
-  "name": "New Item"
-}
-```
+❌ Delete Task
 
----
+Click delete icon.
 
-## 📌 3. Update Record
+Task is permanently removed.
 
-```
-PUT /api/items/:id
-```
+🔮 Future Enhancements
 
-### Body:
-```json
-{
-  "name": "Updated Name"
-}
-```
+🔐 User Authentication
 
----
+☁️ Cloud Database Integration
 
-## 📌 4. Delete Record
+📱 PWA Support
 
-```
-DELETE /api/items/:id
-```
+🌓 Light/Dark Mode Toggle
 
----
+📊 Analytics Dashboard
 
-# 🚀 Production Deployment
+🧪 Unit Testing (Jest + React Testing Library)
 
-### Frontend (Vercel)
-- Connect GitHub repo
-- Set build command: `npm run build`
-- Output directory: `dist`
+📧 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/priyanshu-kumar-b7148632b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/priyanshu1234566" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://x.com/PriyanshuK33564" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://www.instagram.com/alone_in_life_823" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+👨‍💻 Author
 
-### Backend
-- Deploy on Render / Railway
-- Add environment variables
-- Connect MongoDB Atlas
+Priyanshu Kumar
 
----
+⭐ If you like this project, consider giving it a star!
 
-# 🔮 Future Enhancements
-
-- 🔐 JWT Authentication
-- 👤 User Login / Register
-- 📊 Admin Dashboard
-- 🌈 Advanced UI Animations
-- 🧪 Unit & Integration Testing
-- 📦 TypeScript Migration
-
----
-
-# 👨‍💻 Author
-
-**PRIYANSHU KUMAR**
-
-📧 Connect with me for collaboration  
-⭐ If you like this project, give it a star!
-
----
-
-# 📜 License
+📜 License
 
 This project is licensed under the MIT License.
