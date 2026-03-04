@@ -88,10 +88,10 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 ![Edit Screenshot](./src/icons/2.png)
 
 ---
----
+
 # 📂 Project Structure
 
-
+---
 Karyam-Todo-App/
 │
 ├── src/
