@@ -76,16 +76,14 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 > 📌 Add your screenshots inside a `/screenshots` folder
 
 ### 🏠 Home Page
-![Home Screenshot](./src/icons/1.png)
+![Home Screenshot](./src/icon/1.png)
+![Home Screenshot](./src/icon/2.png)
 
 ### ➕ Add Task
-![Add Screenshot](./src/icons/3.png)
+![Add Screenshot](./src/icons/4.png)
 
 ### 📋 Task List
-![List Screenshot](./src/icons/4.png)
-
-### ✏️ Edit Task
-![Edit Screenshot](./src/icons/2.png)
+![List Screenshot](./src/icons/3.png)
 
 ---
 
