@@ -4,7 +4,7 @@ import Navbar from './components/Navbar'
 import KaryamTitleLogo from './components/KaryamTitleLogo';
 import AnimatedBackground from './components/AnimatedBackground';
 import Footer from './components/Footer';
-import { v4 as uuidv4 } from 'uuid';
+ import { v4 as uuidv4 } from 'uuid';//remove this if you are using npm 7 or above, as it comes with uuid pre-installed
 import { MdDelete } from "react-icons/md";
 import { MdEdit } from "react-icons/md";
 function App() {
@@ -15,7 +15,7 @@ function App() {
 
 
   // to avoid data lost on refreshing...
-  // we save the data in localstorage...
+   // we save the data in localstorage...
 
   useEffect(() => {
     let todoString = localStorage.getItem("todos")
@@ -72,7 +72,8 @@ function App() {
     saveToLS()
   }
 
-  return (
+
+  return (           // change yaha  tak
     <><div className='h-[95vh]'>
       <AnimatedBackground/>
       <Navbar />
