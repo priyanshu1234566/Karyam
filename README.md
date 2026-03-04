@@ -20,6 +20,13 @@
 
 ---
 
+---
+## 📧 Connect with me for collaboration
+<p align="center"> <a href="https://www.linkedin.com/in/priyanshu-kumar-b7148632b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/priyanshu1234566" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://x.com/PriyanshuK33564" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://www.instagram.com/alone_in_life_823?igsh=cjZhbXIybGxqN2tj" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+
+---
+
+---
 ## 📖 About The Project
 
 **Karyam** is a modern, responsive To-Do List Web Application built using React and Vite.  
@@ -34,6 +41,7 @@ It allows users to:
 The project focuses on clean UI, smooth animations, and intuitive task management.
 
 ---
+---
 
 ## ✨ Core Features
 
@@ -46,7 +54,7 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 - 💾 LocalStorage Data Persistence
 - 🌙 Modern Dark UI Design
 - ⚡ Fast Performance with Vite
-
+---
 ---
 
 ## 🛠 Tech Stack
@@ -60,7 +68,7 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 
 ### 💾 Data Handling
 - Browser LocalStorage API
-
+---
 ---
 
 ## 🖼 Screenshots
@@ -80,17 +88,8 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 ![Edit Screenshot](./src/icons/2.png)
 
 ---
-
-## 🎬 Demo Video (Optional)
-
-You can embed your demo video like this:
-
-```html
-<p align="center">
-  <video width="600" controls>
-    <source src="./videos/demo.mp4" type="video/mp4">
-  </video>
-</p>
+# 📂 Project Structure
+---
 
 Karyam-Todo-App/
 │
@@ -108,19 +107,42 @@ Karyam-Todo-App/
 ├── public/
 ├── package.json
 └── README.md
-⚙️ Installation Guide
+
+---
+
+# ⚙️ Installation Guide
+
+---
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/karyam-todo-app.git
 cd karyam-todo-app
+
+---
+
+---
+
 2️⃣ Install Dependencies
 npm install
+
+---
+
+---
+
 3️⃣ Run Development Server
 npm run dev
 
+---
+
+---
 App runs at:
 
 http://localhost:5173
-🧠 Example Usage
+
+---
+
+# 🧠 Example Usage
+---
 ➕ Adding a Task
 
 Type task name in input field.
@@ -129,13 +151,19 @@ Press Enter or click Add.
 
 Task appears in list.
 
+---
+---
+
 ✔️ Mark Task Completed
 
 Click checkbox beside task.
 
 Progress bar updates automatically.
 
-✏️ Edit Task
+---
+
+---
+# ✏️ Edit Task
 
 Click edit icon.
 
@@ -143,13 +171,19 @@ Modify task.
 
 Re-add updated task.
 
-❌ Delete Task
+---
+---
+
+# ❌ Delete Task
 
 Click delete icon.
 
 Task is permanently removed.
 
-🔮 Future Enhancements
+---
+---
+
+# 🔮 Future Enhancements
 
 🔐 User Authentication
 
@@ -163,14 +197,20 @@ Task is permanently removed.
 
 🧪 Unit Testing (Jest + React Testing Library)
 
-📧 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/priyanshu-kumar-b7148632b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/priyanshu1234566" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://x.com/PriyanshuK33564" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://www.instagram.com/alone_in_life_823" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
-👨‍💻 Author
+---
+
+# 👨‍💻 Author
+---
 
 Priyanshu Kumar
 
 ⭐ If you like this project, consider giving it a star!
 
-📜 License
+---
 
+# 📜 License
+
+---
 This project is licensed under the MIT License.
+
+---
