@@ -198,10 +198,9 @@ Task is permanently removed.
 🧪 Unit Testing (Jest + React Testing Library)
 
 ---
-
-# 👨‍💻 Author
 ---
 
+# 👨‍💻 Author
 Priyanshu Kumar
 
 ⭐ If you like this project, consider giving it a star!
