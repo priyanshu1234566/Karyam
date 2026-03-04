@@ -16,7 +16,7 @@
 ## 🌐 Live Demo
 
 🔗 **Production URL:**  
-👉 https://mantram-mongo-db.vercel.app/
+👉 https://karyam-orcin.vercel.app/
 
 ---
 
