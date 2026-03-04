@@ -80,10 +80,10 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 ![Home Screenshot](./src/icon/2.png)
 
 ### ➕ Add Task
-![Add Screenshot](./src/icons/4.png)
+![Add Screenshot](./src/icon/4.png)
 
 ### 📋 Task List
-![List Screenshot](./src/icons/3.png)
+![List Screenshot](./src/icon/3.png)
 
 ---
 
