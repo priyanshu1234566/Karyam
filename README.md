@@ -88,8 +88,9 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 ![Edit Screenshot](./src/icons/2.png)
 
 ---
-# 📂 Project Structure
 ---
+# 📂 Project Structure
+
 
 Karyam-Todo-App/
 │
@@ -109,12 +110,11 @@ Karyam-Todo-App/
 └── README.md
 
 ---
+---
 
 # ⚙️ Installation Guide
 
----
-
-1️⃣ Clone Repository
+# 1️⃣ Clone Repository
 git clone https://github.com/your-username/karyam-todo-app.git
 cd karyam-todo-app
 
@@ -122,28 +122,28 @@ cd karyam-todo-app
 
 ---
 
-2️⃣ Install Dependencies
+# 2️⃣ Install Dependencies
 npm install
 
 ---
 
 ---
 
-3️⃣ Run Development Server
+ # 3️⃣ Run Development Server
 npm run dev
 
 ---
 
 ---
-App runs at:
+ # App runs at:
 
 http://localhost:5173
 
 ---
-
-# 🧠 Example Usage
 ---
-➕ Adding a Task
+# 🧠 Example Usage
+
+# ➕ Adding a Task
 
 Type task name in input field.
 
