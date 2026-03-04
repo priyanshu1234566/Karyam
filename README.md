@@ -154,7 +154,7 @@ Task appears in list.
 ---
 ---
 
-✔️ Mark Task Completed
+# ✔️ Mark Task Completed
 
 Click checkbox beside task.
 
