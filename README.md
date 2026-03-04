@@ -199,7 +199,7 @@ Task is permanently removed.
 ---
 
 # 👨‍💻 Author
-Priyanshu Kumar
+**Priyanshu Kumar**
 
 ⭐ If you like this project, consider giving it a star!
 
