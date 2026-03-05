@@ -27,6 +27,24 @@
 ---
 
 ---
+
+## 🖼 Project veiw 
+
+> 📌 Add your screenshots inside a `/screenshots` folder
+
+### 🏠 Home Page
+![Home Screenshot](./src/icon/1.png)
+![Home Screenshot](./src/icon/2.png)
+
+### ➕ Add Task
+![Add Screenshot](./src/icon/4.png)
+
+### 📋 Task List
+![List Screenshot](./src/icon/3.png)
+
+---
+
+---
 ## 📖 About The Project
 
 **Karyam** is a modern, responsive To-Do List Web Application built using React and Vite.  
@@ -69,23 +87,7 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 ### 💾 Data Handling
 - Browser LocalStorage API
 ---
----
 
-## 🖼 Screenshots
-
-> 📌 Add your screenshots inside a `/screenshots` folder
-
-### 🏠 Home Page
-![Home Screenshot](./src/icon/1.png)
-![Home Screenshot](./src/icon/2.png)
-
-### ➕ Add Task
-![Add Screenshot](./src/icon/4.png)
-
-### 📋 Task List
-![List Screenshot](./src/icon/3.png)
-
----
 
 # 📂 Project Structure
 
