@@ -88,10 +88,8 @@ The project focuses on clean UI, smooth animations, and intuitive task managemen
 - Browser LocalStorage API
 ---
 
-
-# 📂 Project Structure
-
 ---
+# 📂 Project Structure
 Karyam-Todo-App/
 │
 ├── src/
